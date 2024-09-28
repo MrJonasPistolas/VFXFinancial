@@ -1,0 +1,14 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Microsoft.Extensions.Configuration;
+global using Newtonsoft.Json;
+global using System.Collections;
+global using System.Reflection;
+global using VFXFinancial.Application.Enums;
+global using VFXFinancial.Application.Interfaces.Repositories;
+global using VFXFinancial.Domain.Contracts;
+global using VFXFinancial.Domain.Entities;
+global using VFXFinancial.Infrastructure.Contexts;
+global using VFXFinancial.Infrastructure.Models;
+global using VFXFinancial.Infrastructure.Repositories;
